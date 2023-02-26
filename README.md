@@ -11,7 +11,7 @@ City Subway Train Modular from Unreal marketplace has been used for the model of
 * Tech Stack: C++, Blueprints
 * Assets: City Subway Train Modular 
 
-## Demo of the social metaverse
+## Demo of the escape
 You can check the following youtube video below which shows a demo of escaping from the train
 [![Watch the video](https://yt-embed.live/embed?v=UKqnpbkiS_A)](https://youtu.be/UKqnpbkiS_A "Watch the video")
 
