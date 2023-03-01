@@ -1,7 +1,7 @@
 # Escape-From-Subway-Train-Unreal
 Escaping from city subway train using Unreal Engine 4
 
-Created this UE4 project, where you first need to find the secret code written somewhere in the train that can be used to open the case, then collect the key, and finally open the door to escape from the train.
+Created this fun escape game with UE4. The player first need to find the secret code written somewhere in the train, enter the code in UI, to open the case. Then collect the key, and finally open the door with the key to escape from the train. 
 
 City Subway Train Modular from Unreal marketplace has been used for the model of the train. 
 
